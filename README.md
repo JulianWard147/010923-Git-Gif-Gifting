@@ -71,4 +71,4 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Annie
 
-![happy dog](https://giphy.com/explore/cat-and-computer)
+![cat computer](https://giphy.com/explore/cat-and-computer)
