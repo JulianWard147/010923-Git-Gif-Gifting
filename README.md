@@ -25,6 +25,8 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Nadya
 
+![Just a snow monkey](https://media3.giphy.com/media/JUAL3wPvPPXEUbM2tx/giphy.gif)
+
 ### Russell
 
 ### Albert
