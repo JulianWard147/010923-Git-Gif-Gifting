@@ -39,6 +39,8 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Parker
 
+![Doc Rivers confused](https://tenor.com/view/-gif-5323311)
+
 ### Diego
 ![Heck yah](https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif)
 
