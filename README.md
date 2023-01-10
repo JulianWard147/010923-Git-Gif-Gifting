@@ -40,6 +40,8 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Rachael
 
+![Big Brain!] (https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2454513/2454513-1570719639731-bfdf3620a4e0d.jpg)
+
 ### Ryan
 
 !["Huh, pretty cool"](https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif)
