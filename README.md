@@ -19,7 +19,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Julian
 
-[Description of my gif](https://media.giphy.com/media/J7KJ3R64Pv70I/giphy.gif)
+![Description of my gif](https://media.giphy.com/media/J7KJ3R64Pv70I/giphy.gif)
 
 ### Mahum
 
@@ -33,7 +33,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Sean
 
-! [I'm in a glass case of emotion](https://media.tenor.com/TvewqI9O5KEAAAAC/anchorman-upset.gif)
+![I'm in a glass case of emotion](https://media.tenor.com/TvewqI9O5KEAAAAC/anchorman-upset.gif)
 
 ### Parker
 
