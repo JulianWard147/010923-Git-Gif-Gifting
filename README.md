@@ -61,6 +61,8 @@ I will either accept your pull request, or send you feedback on what you need to
 ![always](https://media.giphy.com/media/gABPLV4lJ5wsM/giphy.gif)
 ### Paul
 
+![Fat and Sassy](https://media.tenor.com/WpguQtu5EYwAAAAM/fat.gif)
+
 ### Jake
 
 ### Beyza
