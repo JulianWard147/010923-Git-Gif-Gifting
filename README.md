@@ -54,7 +54,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### John
 
-![We're ready to perform, Squidward](https://tenor.com/view/dancing-spongebob-spongebob-squarepants-eager-band-geeks-gif-19663284)
+![We're ready to perform, Squidward](https://media.tenor.com/m-ALY-uQNkcAAAAM/spongebob-squarepants-spongebob.gif)
 
 ### DJ
 ![Dancing Totoro](https://media.tenor.com/REo804et_s0AAAAM/totoro.gif)
