@@ -29,6 +29,8 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Albert
 
+This is how I'm feeling today. (https://media.giphy.com/media/1BXa2alBjrCXC/giphy.gif)
+
 ### Sean
 
 ### Parker
